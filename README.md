@@ -20,7 +20,7 @@ To write a program to find the exponentiation of a number.
 
 def fun(k):
 
-    print("Exponentiation of a given number:",k**2)
+   print("Exponentiation of a given number:",k**2)
 
 k=int(input())
 
